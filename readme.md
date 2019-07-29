@@ -12,4 +12,10 @@ For you, it should have the same effect.
 
 Because of my limited ability, let me know if there are any errors in the project or where improvements are needed.
 
-![Alt text]( https://octodex.github.com/images/spidertocat.png "spidertocat") 
+
+
+<!-- <img width = '400' height ='400' src = https://octodex.github.com/images/spidertocat.png></div> -->
+
+<img src="https://octodex.github.com/images/spidertocat.png" width="50%" height="50%">
+
+
